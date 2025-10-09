@@ -1,5 +1,5 @@
 ---
-title: New Test FIle
+title: New Test File
 description: New Test FIle
 draft: false
 ---

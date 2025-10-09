@@ -1,7 +1,7 @@
 ---
 title: New Post From Local
 description: New Post From Local
-date: 01-10-2025
-draft: Local
+date: 2025-10-09
+draft: true
 ---
 This is for testing purpose
